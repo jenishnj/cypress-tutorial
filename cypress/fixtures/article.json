@@ -1,0 +1,6 @@
+{
+  "title": "my article title",
+  "about": "about xyz",
+  "article": "create article using fixture",
+  "tags": "cypress.io"
+}
