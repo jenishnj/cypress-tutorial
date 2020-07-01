@@ -4,7 +4,9 @@
   "description": "This contains JJ automation cypress tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:run": "cypress run",
+    "cy:run:login": "cypress run --spec \"cypress/integration/login.spec.js\" --browser chrome --headless",
+    "cy:run:loginFolder": "cypress run --spec \"cypress/integration/login/**/*\""
   },
   "repository": {
     "type": "git",
