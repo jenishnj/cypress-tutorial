@@ -1,0 +1,21 @@
+[ {
+  "uid" : "2c24bb3f5487e68c",
+  "name" : "should create new article",
+  "time" : {
+    "start" : 1595382072398,
+    "stop" : 1595382080638,
+    "duration" : 8240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a507c5373cd7be3",
+  "name" : "should be login -2",
+  "time" : {
+    "start" : 1595382104739,
+    "stop" : 1595382120997,
+    "duration" : 16258
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

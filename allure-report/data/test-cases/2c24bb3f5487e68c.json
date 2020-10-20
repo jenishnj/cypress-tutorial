@@ -1,0 +1,46 @@
+{
+  "uid" : "2c24bb3f5487e68c",
+  "name" : "should create new article",
+  "fullName" : "articles.should create new article",
+  "historyId" : "57a2b6f4932f9016a5e414a13797351f",
+  "time" : {
+    "start" : 1595382072398,
+    "stop" : 1595382080638,
+    "duration" : 8240
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "articles"
+  }, {
+    "name" : "testClass",
+    "value" : "articles"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create new article"
+  }, {
+    "name" : "package",
+    "value" : "articles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c24bb3f5487e68c.json",
+  "parameterValues" : [ ]
+}

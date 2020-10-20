@@ -1,0 +1,46 @@
+{
+  "uid" : "5a507c5373cd7be3",
+  "name" : "should be login -2",
+  "fullName" : "login.should be login -2",
+  "historyId" : "65d19e94b1c285a2e690300e46c6cac4",
+  "time" : {
+    "start" : 1595382104739,
+    "stop" : 1595382120997,
+    "duration" : 16258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "login"
+  }, {
+    "name" : "testClass",
+    "value" : "login"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be login -2"
+  }, {
+    "name" : "package",
+    "value" : "login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a507c5373cd7be3.json",
+  "parameterValues" : [ ]
+}

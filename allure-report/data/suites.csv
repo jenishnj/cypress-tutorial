@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 22 07:11:12 IST 2020","Wed Jul 22 07:11:20 IST 2020","8240","","articles","","articles","should create new article","should create new article",""
+"passed","Wed Jul 22 07:11:44 IST 2020","Wed Jul 22 07:12:00 IST 2020","16258","","login","","login","should be login -2","should be login -2",""
